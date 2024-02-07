@@ -38,3 +38,9 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoon-ymin&count_bg=%23D8A7D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myminn23"/>
+</div>
