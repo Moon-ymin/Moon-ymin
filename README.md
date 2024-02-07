@@ -16,7 +16,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-007ACC.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/androidstudio%20Query-FF4154?style=for-the-badge&logo=androidstudio%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/androidstudio%20-FF4154?style=for-the-badge&logo=androidstudio%20&logoColor=white" />&nbsp
 </div>
 
 <br>
