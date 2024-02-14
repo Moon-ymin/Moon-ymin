@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/jupyter-20232a.svg?style=for-the-badge&logo=jupyter&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/googlecolab-20232a.svg?style=for-the-badge&logo=googlecolab&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-20232a.svg?style=for-the-badge&logo=VSCode&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-20232a.svg?style=for-the-badge&logo=jupyter&logoColor=#F37626" />&nbsp
+  <img src="https://img.shields.io/badge/googlecolab-20232a.svg?style=for-the-badge&logo=googlecolab&logoColor=#F9AB00" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=#007ACC" />&nbsp
 </div>
 
 <br>
