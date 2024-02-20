@@ -32,6 +32,11 @@
   <img src="https://img.shields.io/badge/googlecolab-20232a.svg?style=for-the-badge&logo=googlecolab&logoColor=#F9AB00" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=#007ACC" />&nbsp
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/eclipseide-20232a.svg?style=for-the-badge&logo=eclipseide&logoColor=#2C2255" />&nbsp
+  
+</div>
 
 <br>
 
