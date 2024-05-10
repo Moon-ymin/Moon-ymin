@@ -6,9 +6,9 @@
 <!--내용-->
 <h3 align="center">✨ Languages ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />&nbsp
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />&nbsp
   <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF" />&nbsp
 </div>
 
