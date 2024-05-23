@@ -1,6 +1,6 @@
 <!--타이틀-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=👏안녕하세요👏%20개발%20공부하고%20있는%20문영민입니다.&fontSize=20&animation=twinkling&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=&fontSize=20&animation=twinkling&fontColor=000000" />
 </div>
 
 <!--내용-->
