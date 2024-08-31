@@ -4,17 +4,17 @@
 </div>
 
 <!--내용-->
-<h3 align="center">✨ Languages ✨</h3>
+<h3 align="center">✨ Studying ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />&nbsp
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF" />&nbsp
+  <!--<img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF" />&nbsp-->
 </div>
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<!--<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF" />&nbsp
   <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84" />&nbsp
@@ -40,7 +40,7 @@
 </div>
 
 <br>
-
+-->
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoon-ymin&count_bg=%23D8A7D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
